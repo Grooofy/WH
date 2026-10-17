@@ -1,0 +1,7 @@
+node_modules/
+tmp/
+__pycache__/
+*.pdf
+*-preview.png
+test-character.json
+page106.png

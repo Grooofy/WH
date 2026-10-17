@@ -1,0 +1,11 @@
+{
+  "name": "demonlord-grimoire",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "node --check app.js && node scripts/check-data.cjs",
+    "test": "node scripts/test-browser.cjs && node scripts/test-casting.cjs"
+  },
+  "devDependencies": { "playwright": "^1.58.0" }
+}
+
